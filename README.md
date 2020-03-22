@@ -19,9 +19,13 @@ Ova aplikacija trebala bi služiti kao pomoć korisnicima koji žele unaprijed r
 Korisnik ima opciju registracije ili prijavljivanja na sistem u ovisnosti da li je novi korisnik ili već ima svoj korisnicki račun. Ukoliko se korisnik prvi put registruje, on mora ispuniti formular u kojem unosi neke od osnovnih ličnih podataka. Nakon unosa podataka klijent može da pogleda neku od ponuda firme i odabire uslugu za koju je zainteresian. Ukoliko korisnik ima profil može da provjerava stanje usluga koje koristi (članarina za rezervaciju i godišnje održavanje grobnog mjesta).
 
 #### OWNER
+OWNER je vlasnik firme/aplikacije koji ima najveći stepen privilegija (mogućnosti). On upravlja firmom i dodjeljuje privilegije ostalim korisnicima ove aplikacije tj. Administratoru uposlenih i Administratoru aplikacije. 
 
+#### Administrator uposlenih
+Korisnik koji se direktno prijavljuje na aplikaciju sa podacima koje mu je dostavio OWNER. Njegov zadatak je da organizira zaposlene i dodjeljuje im njehove poslove za određeni vremenski period (kreira i štampa radne naloge). Pored toga on nakon što mu Administrator aplikacije proslijedi zahtjeve iste odobrava ili odbija u skladu sa trenutno raspoloživim resursima u firmi. 
 
-
+#### Administrator aplikacije
+Korisnik koji se direktno prijavljuje na aplikaciju sa podacima koje mu je dostavio OWNER. On također može izvršiti registraciju klijenta ukoliko je klijent došao direktno u poslovnicu. Komunicira sa krajnjim korisnicima, obrađuje zahtjeve i šalje ih Administratoru uposlenik. Ima mogućnost da briše korisničke naloge kao i odobravanje promjena u korisničkom računu. Vodi evidenciju o obavezama Korisnika prema firmi te ih obavještava o eventualnim dugovanjima.
 
 ### Funkcionalnosti:
 + Mogućnost registracije novog korisnika  
