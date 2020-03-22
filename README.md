@@ -1,6 +1,8 @@
 # Grupa6-PogrebnoDrustvo
 Tema: Aplikacija za upravljanje pogrebnim društvom
 
+![](https://i.imgur.com/3muk3Hd.jpg)
+
 ##### Članovi tima:
 - [Kokić Elmir](https://github.com/ekokic98)
 - [Sekulić Davor](https://github.com/dsekulic1)
