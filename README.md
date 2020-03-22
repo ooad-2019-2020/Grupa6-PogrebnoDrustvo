@@ -1,5 +1,5 @@
-# Grupa6-PogrebnoDrustvo
-Tema: Aplikacija za upravljanje pogrebnim društvom
+## Grupa6-PogrebnoDrustvo
+# Tema: Aplikacija za upravljanje pogrebnim društvom
 
 ![](https://i.imgur.com/3muk3Hd.jpg)
 
