@@ -13,13 +13,28 @@ Aplikacija je namjenjena da olakša proceduru pri organizaciji sahrane. Ona daje
 Također aplikacija omogućava i organizaciju i raspodjelu posla zaposlenim osobama u pogrebnom društvu za što je zadužen poseban korisnik aplikacije. 
 Ova aplikacija trebala bi služiti kao pomoć korisnicima koji žele unaprijed rezervisati grobno mjesto i odrediti detalje oko sahrane kao i korisnicima koji organiziraju sahranu za člana porodice.
 
+### Procesi:
+
+#### Korisnik
+Korisnik ima opciju registracije ili prijavljivanja na sistem u ovisnosti da li je novi korisnik ili već ima svoj korisnicki račun. Ukoliko se korisnik prvi put registruje, on mora ispuniti formular u kojem unosi neke od osnovnih ličnih podataka. Nakon unosa podataka klijent može da pogleda neku od ponuda firme i odabire uslugu za koju je zainteresian. Ukoliko korisnik ima profil može da provjerava stanje usluga koje koristi (članarina za rezervaciju i godišnje održavanje grobnog mjesta).
+
+#### OWNER
+
+
+
+
 ### Funkcionalnosti:
++ Mogućnost registracije novog korisnika  
++ Mogućnost prijave na sistem korisnika ili uposlenika sa već napravljenim računom  
 + Rezervacija grobnog mjesta unaprijed
 + Organizacija sahrane
 + Organizacija prevoza umrle osobe
 + Organizacija vjerskog obreda
 + Komunikacija i slanje smrtovnice novinama i portalima
 + Unutarnja organizacija firme i poslova u istoj
++ Mogućnost potvrde ili odbijanja zahtjeva
++ Mogućnost pregleda svih klijenata i uposlenika (mogućnost OWNER-a)
++ Mogućnost birsanja korisničkog računa klijenta  
 
 ### Akteri:
 + OWNER – određuje Administratore i daje im privilegije za upravljanje aplikacijom
