@@ -25,7 +25,7 @@ OWNER je vlasnik firme/aplikacije koji ima najveći stepen privilegija (mogućno
 Korisnik koji se direktno prijavljuje na aplikaciju sa podacima koje mu je dostavio OWNER. Njegov zadatak je da organizira zaposlene i dodjeljuje im njehove poslove za određeni vremenski period (kreira i štampa radne naloge). Pored toga on nakon što mu Administrator aplikacije proslijedi zahtjeve iste odobrava ili odbija u skladu sa trenutno raspoloživim resursima u firmi. 
 
 #### Administrator aplikacije
-Korisnik koji se direktno prijavljuje na aplikaciju sa podacima koje mu je dostavio OWNER. On također može izvršiti registraciju klijenta ukoliko je klijent došao direktno u poslovnicu. Komunicira sa krajnjim korisnicima, obrađuje zahtjeve i šalje ih Administratoru uposlenik. Ima mogućnost da briše korisničke naloge kao i odobravanje promjena u korisničkom računu. Vodi evidenciju o obavezama Korisnika prema firmi te ih obavještava o eventualnim dugovanjima.
+Korisnik koji se direktno prijavljuje na aplikaciju sa podacima koje mu je dostavio OWNER. On također može izvršiti registraciju klijenta ukoliko je klijent došao direktno u poslovnicu. Komunicira sa krajnjim korisnicima, obrađuje zahtjeve i šalje ih Administratoru uposlenik. Ima mogućnost da briše korisničke naloge kao i odobravanje promjena u korisničkom računu. Vodi evidenciju o obavezama Korisnika prema firmi te ih obavještava o eventualnim dugovanjima. Interakcija sa novinama i portalima (izrada i slanje smrtovnice).
 
 ### Funkcionalnosti:
 + Mogućnost registracije novog korisnika  
