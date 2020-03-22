@@ -1,2 +1,2 @@
 # Grupa6-PogrebnoDrustvo
-Tema: U susret Coroni
+Tema: Aplikacija za upravljanje pogrebnim društvom
